@@ -10,6 +10,14 @@
       "StackName": "amplify-dougamplify1-dev-235409",
       "StackId": "arn:aws:cloudformation:us-west-2:403958634573:stack/amplify-dougamplify1-dev-235409/444257f0-7736-11eb-b52c-0a90d5effc2d",
       "AmplifyAppId": "d1dv37zwaanyk1"
+    },
+    "categories": {
+      "function": {
+        "dougamplify128065ab6": {
+          "deploymentBucketName": "amplify-dougamplify1-dev-235409-deployment",
+          "s3Key": "amplify-builds/dougamplify128065ab6-5772484e7a686a315168-build.zip"
+        }
+      }
     }
   }
 }

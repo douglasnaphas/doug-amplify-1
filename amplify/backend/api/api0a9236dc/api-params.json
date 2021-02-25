@@ -1,0 +1,35 @@
+{
+    "paths": [
+        {
+            "name": "/items",
+            "lambdaFunction": "dougamplify128065ab6",
+            "privacy": {
+                "open": true
+            },
+            "policyResourceName": "/items"
+        }
+    ],
+    "resourceName": "api0a9236dc",
+    "apiName": "api0a9236dc",
+    "functionArns": [
+        {
+            "lambdaFunction": "dougamplify128065ab6"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "amplify-dougamplify1-dev-235409-authRole",
+        "unAuthRoleName": "amplify-dougamplify1-dev-235409-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "dougamplify128065ab6",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}
